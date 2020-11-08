@@ -49,9 +49,3 @@ category-all-page {
   .category-all-page .category-list-child {
     padding-left: 10px;
   }
-
-    .icon-ͼ����:before{content:"ͼ��unicode"}
-    /* ֮ǰ��ͼ��unicode����ͷ��$�ĳ�\,�� $E6C --> \E6C */
-    #header .header-nav .social a.ͼ����{background:�Զ�����ɫ;border:3px solid �Զ�����ɫ}
-    #header .header-nav .social a.ͼ����:hover{border:3px solid �Զ�����ɫ}
-
