@@ -6,7 +6,7 @@
   <link href="http://heizaiworld.top/atom.xml" rel="self"/>
   
   <link href="http://heizaiworld.top/"/>
-  <updated>2020-11-15T01:32:57.197Z</updated>
+  <updated>2020-11-20T14:49:02.237Z</updated>
   <id>http://heizaiworld.top/</id>
   
   <author>
@@ -17,9 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我的Next 主题优化</title>
+    <link href="http://heizaiworld.top/posts/daa6d7a2/"/>
+    <id>http://heizaiworld.top/posts/daa6d7a2/</id>
+    <published>2020-11-20T14:46:29.000Z</published>
+    <updated>2020-11-20T14:49:02.237Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我的第一个</summary>
+        
+      
+    
+    
+    
+    <category term="主题优化" scheme="http://heizaiworld.top/categories/%E4%B8%BB%E9%A2%98%E4%BC%98%E5%8C%96/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>阴天快乐</title>
-    <link href="http://heizaiworld.top/undefined/e3220a12.html"/>
-    <id>http://heizaiworld.top/undefined/e3220a12.html</id>
+    <link href="http://heizaiworld.top/posts/e3220a12/"/>
+    <id>http://heizaiworld.top/posts/e3220a12/</id>
     <published>2020-10-09T01:45:57.000Z</published>
     <updated>2020-11-15T01:32:57.197Z</updated>
     
@@ -35,8 +58,8 @@
   
   <entry>
     <title>HTML入门笔记</title>
-    <link href="http://heizaiworld.top/undefined/ea82bb07.html"/>
-    <id>http://heizaiworld.top/undefined/ea82bb07.html</id>
+    <link href="http://heizaiworld.top/posts/ea82bb07/"/>
+    <id>http://heizaiworld.top/posts/ea82bb07/</id>
     <published>2018-11-23T13:07:15.000Z</published>
     <updated>2020-11-15T14:31:40.485Z</updated>
     
@@ -52,8 +75,8 @@
   
   <entry>
     <title>Linux设置邮件提醒</title>
-    <link href="http://heizaiworld.top/undefined/20bf54cb.html"/>
-    <id>http://heizaiworld.top/undefined/20bf54cb.html</id>
+    <link href="http://heizaiworld.top/posts/20bf54cb/"/>
+    <id>http://heizaiworld.top/posts/20bf54cb/</id>
     <published>2018-05-24T03:00:00.000Z</published>
     <updated>2020-11-17T13:54:02.522Z</updated>
     

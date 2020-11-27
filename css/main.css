@@ -1656,6 +1656,7 @@ pre code {
   color: #eff3f2;
   display: inline-block;
   margin: 0 5px;
+  animation: icon-animate 1.33s ease-in-out infinite;
 }
 @-moz-keyframes icon-animate {
   0%, 100% {
@@ -1716,9 +1717,6 @@ pre code {
 .back-to-top {
   font-size: 12px;
 }
-.back-to-top span {
-  display: none;
-}
 .back-to-top {
   bottom: -100px;
   box-sizing: border-box;
@@ -1731,7 +1729,6 @@ pre code {
   position: fixed;
   z-index: 1300;
   right: 30px;
-  width: 24px;
 }
 @media (max-width: 991px) {
   .back-to-top {
@@ -3052,8 +3049,18 @@ figure.highlight pre .javascript .function {
   }
 }
 body {
-  background-image: url("/images/123.jpg");
+  background: url("/images/123.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-position: 50% 50%;
+  background-size: 100% 100%;
+}
+.main-inner {
+  opacity: 0.9;
+}
+.sidebar {
+  opacity: 0.9;
+}
+.header-inner {
+  opacity: 0.9;
 }
